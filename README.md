@@ -16,11 +16,15 @@ If I've missed any projects, or described them wrong, submit a pull request!
 
 These are the slides used for the Game Dev Day.
 
+You can view the slides as a PDF here: [GDD.pdf](GDD.pdf)
+
 You can load the GDD.md file in [Deckset](http://decksetapp.com). It uses the yellow variant of the Ostrich theme.
 
 ## Intro to A-Frame
 
 These are the introduction to A-Frame slides that give an overview of A-Frame, how to use it and some of it's features.
+
+You can view the slides as a PDF here: [Intro to A-Frame.pdf](Intro to A-Frame.pdf)
 
 The links in the slides are:
 
@@ -28,3 +32,5 @@ The links in the slides are:
 - [A-Frame Boilerplate](https://github.com/aframevr/aframe-boilerplate)
 - [Official A-Frame docs](https://aframe.io/docs/0.2.0/guide)
 - [Official A-Frame examples](https://aframe.io/aframe/examples)
+
+You can load the Intro to A-Frame.md file in [Deckset](http://decksetapp.com). It uses the blue variant of the Ostrich theme.
