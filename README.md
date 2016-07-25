@@ -9,6 +9,7 @@ These are some of the projects that were created during Game Dev Day:
 - [edent/aframedemo](https://github.com/edent/aframedemo/tree/gh-pages) - A quick hackday project to make an immersive VR art gallery.
 - [adjl/CryingAngels](https://github.com/adjl/CryingAngels) - The idea is to have the Weeping Crying Angels pursue you in a maze; they stop when you look at them. This repo focuses on the implementation of the latter mechanic.
 - [lpmi-13/privateRepository](https://github.com/lpmi-13/privateRepository) - Word breakout, where the words change to their plural form
+- [AverageMarcus/Pushermon-Go](https://github.com/AverageMarcus/Pushermon-Go) - A Pokémon Go clone built using Pusher, Mapbox and Pokéapi
 
 If I've missed any projects, or described them wrong, submit a pull request!
 
